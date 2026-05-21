@@ -1,0 +1,3 @@
+95% de confiança é o esperado? Qual é o valor que acha melhor?
+É necessario colocar as formulas sobre o test estatistico que vamos usar?
+É necessario incluir todos os calculos para avaliar o conjunto das hipotestes? Procedimentos das aulas?

@@ -1,0 +1,49 @@
+Solve the following programming problem in C++.
+
+Problem:
+You are given two positive integers, l and r. A positive integer is called beautiful if the product of its digits is divisible by the sum of its digits.
+Return the count of beautiful numbers between l and r, inclusive.
+ 
+Example 1:
+
+Input: l = 10, r = 20
+Output: 2
+Explanation:
+The beautiful numbers in the range are 10 and 20.
+
+Example 2:
+
+Input: l = 1, r = 15
+Output: 10
+Explanation:
+The beautiful numbers in the range are 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10.
+
+ 
+Constraints:
+
+1 <= l <= r < 109
+
+
+
+Starter code:
+```cpp
+using namespace std;
+
+class Solution {
+public:
+    long long count_le(long long n) {
+        // your code here
+    }
+
+    long long beautifulNumbers(int l, int r) {
+        // your code here
+    }
+};
+```
+
+Requirements:
+- Provide your complete solution in a single C++ code block.
+- Include all necessary headers at the top of the code block.
+- Do not include any text or explanation outside the code block.
+- The class and function signature must match the starter code exactly.
+- Do not include a `main()` function — only the `class Solution` (and any helper structs already shown in the starter code).

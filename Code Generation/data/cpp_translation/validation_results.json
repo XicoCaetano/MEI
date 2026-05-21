@@ -1,0 +1,212 @@
+[
+  {
+    "task_id": "minimum-cost-to-reach-every-position",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "maximum-containers-on-a-ship",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "reverse-degree-of-a-string",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "maximum-unique-subarray-sum-after-deletion",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "phone-number-prefix",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "unique-3-digit-even-numbers",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "find-the-largest-almost-missing-integer",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "transform-array-by-parity",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "find-special-substring-of-length-k",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "maximum-students-on-a-single-bench",
+    "difficulty": "Easy",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "properties-graph",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "find-the-minimum-amount-of-time-to-brew-potions",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "maximize-score-after-pair-deletions",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "closest-equal-element-queries",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "zero-array-transformation-iv",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "choose-k-elements-with-maximum-sum",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "fruits-into-baskets-iii",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "apply-substitutions",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "longest-palindromic-subsequence-after-at-most-k-operations",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "sum-of-k-subarrays-with-length-at-least-m",
+    "difficulty": "Medium",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "longest-palindrome-after-substring-concatenation-ii",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "minimum-operations-to-make-array-elements-zero",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "minimum-cost-to-divide-array-into-subarrays",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "maximize-active-section-with-trade-ii",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "count-beautiful-numbers",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "maximize-subarrays-after-removing-one-conflicting-pair",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "longest-common-prefix-of-k-strings-after-removal",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "longest-special-path-ii",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  },
+  {
+    "task_id": "lexicographically-smallest-generated-string",
+    "difficulty": "Hard",
+    "status": "SUCCESS",
+    "compile_error": "",
+    "run_error": ""
+  }
+]

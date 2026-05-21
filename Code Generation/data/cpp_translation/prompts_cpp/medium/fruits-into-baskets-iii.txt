@@ -1,0 +1,88 @@
+Solve the following programming problem in C++.
+
+Problem:
+You are given two arrays of integers, fruits and baskets, each of length n, where fruits[i] represents the quantity of the ith type of fruit, and baskets[j] represents the capacity of the jth basket.
+From left to right, place the fruits according to these rules:
+
+Each fruit type must be placed in the leftmost available basket with a capacity greater than or equal to the quantity of that fruit type.
+Each basket can hold only one type of fruit.
+If a fruit type cannot be placed in any basket, it remains unplaced.
+
+Return the number of fruit types that remain unplaced after all possible allocations are made.
+ 
+Example 1:
+
+Input: fruits = [4,2,5], baskets = [3,5,4]
+Output: 1
+Explanation:
+
+fruits[0] = 4 is placed in baskets[1] = 5.
+fruits[1] = 2 is placed in baskets[0] = 3.
+fruits[2] = 5 cannot be placed in baskets[2] = 4.
+
+Since one fruit type remains unplaced, we return 1.
+
+Example 2:
+
+Input: fruits = [3,6,1], baskets = [6,4,7]
+Output: 0
+Explanation:
+
+fruits[0] = 3 is placed in baskets[0] = 6.
+fruits[1] = 6 cannot be placed in baskets[1] = 4 (insufficient capacity) but can be placed in the next available basket, baskets[2] = 7.
+fruits[2] = 1 is placed in baskets[1] = 4.
+
+Since all fruits are successfully placed, we return 0.
+
+ 
+Constraints:
+
+n == fruits.length == baskets.length
+1 <= n <= 105
+1 <= fruits[i], baskets[i] <= 109
+
+
+
+Starter code:
+```cpp
+using namespace std;
+
+
+class SegmentTree {
+public:
+    static constexpr long long MN = 10000000000LL;
+    int n;
+    vector<long long> f;
+    SegmentTree(int n_) : n(n_), f(4 * n_, MN) {}
+    void update(int k, int l, int r, int i, long long x) {
+        if (l == r) { f[k] = x; return; }
+        int mid = (l + r) / 2;
+        if (i <= mid) update(2*k, l, mid, i, x);
+        else update(2*k+1, mid+1, r, i, x);
+        f[k] = min(f[2*k], f[2*k+1]);
+    }
+    long long query(int k, int l, int r, int start, int end) {
+        if (l == start && r == end) return f[k];
+        int mid = (l + r) / 2;
+        if (end <= mid) return query(2*k, l, mid, start, end);
+        if (mid < start) return query(2*k+1, mid+1, r, start, end);
+        long long lp = query(2*k, l, mid, start, mid);
+        long long rp = query(2*k+1, mid+1, r, mid+1, end);
+        return min(lp, rp);
+    }
+};
+
+class Solution {
+public:
+    int numOfUnplacedFruits(vector<int> fruits, vector<int> baskets) {
+        // your code here
+    }
+};
+```
+
+Requirements:
+- Provide your complete solution in a single C++ code block.
+- Include all necessary headers at the top of the code block.
+- Do not include any text or explanation outside the code block.
+- The class and function signature must match the starter code exactly.
+- Do not include a `main()` function — only the `class Solution` (and any helper structs already shown in the starter code).

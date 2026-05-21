@@ -1,0 +1,32 @@
+1. Contexto de cada Feature
+O que é esta feature?
+Porque é relevante para uma empresa de software?
+Como os LLMs são usados neste contexto?
+Que limitações/desafios existem?
+
+2. Perguntas + Variaveis
+
+Research Question(s)
+Variável independente → o fator que mudamos (o LLM usado, linguagem, complexidade do problema)
+Variáveis dependentes → o que medimos (depende da experiencia)
+Variáveis controladas → o que mantemos constante (prompt)
+
+Apresentar níveis para as variaveis independente com justificação
+
+3. Hipóteses - Precisa de review
+
+H0 — hipótese nula (ex: "não há diferença entre os LLMs")
+H1 — hipótese alternativa (ex: "existe pelo menos um LLM com desempenho superior")
+
+4. Protocolo Experimental
+   4.1 Selecção da amostra (← o nosso script v4)
+   4.2 Prompt template
+   4.4 Pipeline de execução e extracção de código
+   4.5 Pipeline de avaliação (testes, sandbox, timeouts)
+   4.6 Definição operacional de "pass"
+
+5. Recolha de Resultados
+
+6. Aplicar o método estatístico apropriado para a experiência
+
+7. Conclusão

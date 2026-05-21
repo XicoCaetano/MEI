@@ -1,0 +1,31 @@
+task_id,question_id,difficulty,estimated_date,tags
+minimum-cost-to-reach-every-position,3502,Easy,2025-03-30,
+maximum-containers-on-a-ship,3492,Easy,2025-03-23,Math
+reverse-degree-of-a-string,3498,Easy,2025-03-23,
+maximum-unique-subarray-sum-after-deletion,3487,Easy,2025-03-16,"Greedy, Array, Hash Table"
+phone-number-prefix,3491,Easy,2025-03-16,"Trie, Array, String, Sorting"
+unique-3-digit-even-numbers,3483,Easy,2025-03-09,"Recursion, Array, Hash Table, Enumeration"
+find-the-largest-almost-missing-integer,3471,Easy,2025-03-02,"Array, Hash Table"
+transform-array-by-parity,3467,Easy,2025-02-23,"Array, Counting, Sorting"
+find-special-substring-of-length-k,3456,Easy,2025-02-16,String
+maximum-students-on-a-single-bench,3450,Easy,2025-02-09,"Array, Hash Table"
+properties-graph,3493,Medium,2025-03-23,"Depth-First Search, Breadth-First Search, Union Find, Graph, Array, Hash Table"
+find-the-minimum-amount-of-time-to-brew-potions,3494,Medium,2025-03-23,"Array, Prefix Sum, Simulation"
+maximize-score-after-pair-deletions,3496,Medium,2025-03-23,
+closest-equal-element-queries,3488,Medium,2025-03-16,"Array, Hash Table, Binary Search"
+zero-array-transformation-iv,3489,Medium,2025-03-16,"Array, Dynamic Programming"
+choose-k-elements-with-maximum-sum,3478,Medium,2025-03-09,"Array, Sorting, Heap (Priority Queue)"
+fruits-into-baskets-iii,3479,Medium,2025-03-09,"Segment Tree, Array, Binary Search, Ordered Set"
+apply-substitutions,3481,Medium,2025-03-09,"Depth-First Search, Breadth-First Search, Graph, Topological Sort, Array, Hash Table, String"
+longest-palindromic-subsequence-after-at-most-k-operations,3472,Medium,2025-03-02,"String, Dynamic Programming"
+sum-of-k-subarrays-with-length-at-least-m,3473,Medium,2025-03-02,"Array, Dynamic Programming, Prefix Sum"
+longest-palindrome-after-substring-concatenation-ii,3504,Hard,2025-03-30,
+minimum-operations-to-make-elements-within-k-subarrays-equal,3505,Hard,2025-03-30,
+minimum-operations-to-make-array-elements-zero,3495,Hard,2025-03-23,"Bit Manipulation, Array, Math"
+minimum-cost-to-divide-array-into-subarrays,3500,Hard,2025-03-23,
+maximize-active-section-with-trade-ii,3501,Hard,2025-03-23,
+count-beautiful-numbers,3490,Hard,2025-03-16,Dynamic Programming
+maximize-subarrays-after-removing-one-conflicting-pair,3480,Hard,2025-03-09,"Segment Tree, Array, Enumeration, Prefix Sum"
+longest-common-prefix-of-k-strings-after-removal,3485,Hard,2025-03-09,"Trie, Array, String"
+longest-special-path-ii,3486,Hard,2025-03-09,"Tree, Depth-First Search, Array, Hash Table, Prefix Sum"
+lexicographically-smallest-generated-string,3474,Hard,2025-03-02,"Greedy, String, String Matching"

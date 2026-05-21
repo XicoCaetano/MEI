@@ -1,0 +1,632 @@
+[
+  {
+    "task_id": "minimum-cost-to-reach-every-position",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "minimum-cost-to-reach-every-position",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "minimum-cost-to-reach-every-position",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximum-containers-on-a-ship",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximum-containers-on-a-ship",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximum-containers-on-a-ship",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "reverse-degree-of-a-string",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "reverse-degree-of-a-string",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "reverse-degree-of-a-string",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximum-unique-subarray-sum-after-deletion",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximum-unique-subarray-sum-after-deletion",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximum-unique-subarray-sum-after-deletion",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_easy_maximum-unique-subarray-sum-after-deletion: results/cpp/eval_work/deepseek_easy_maximum-unique-subarray-sum-after-deletion.cpp:67: int main(): Assertion `(sol.maxSum(vector<int>{-1, 2, -3, 4, -5}) == 6)' failed.\n"
+  },
+  {
+    "task_id": "phone-number-prefix",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "phone-number-prefix",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "phone-number-prefix",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "unique-3-digit-even-numbers",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "unique-3-digit-even-numbers",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "unique-3-digit-even-numbers",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "find-the-largest-almost-missing-integer",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "find-the-largest-almost-missing-integer",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "find-the-largest-almost-missing-integer",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "transform-array-by-parity",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "transform-array-by-parity",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "transform-array-by-parity",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "find-special-substring-of-length-k",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "find-special-substring-of-length-k",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "find-special-substring-of-length-k",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximum-students-on-a-single-bench",
+    "difficulty": "easy",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximum-students-on-a-single-bench",
+    "difficulty": "easy",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximum-students-on-a-single-bench",
+    "difficulty": "easy",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "properties-graph",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "properties-graph",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "properties-graph",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "find-the-minimum-amount-of-time-to-brew-potions",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:189:2: error: expected ‘}’ at end of input\n  189 | }\n      |  ^\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:31:16: note: to match this ‘{’\n   31 | class Solution {\n      |                ^\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp: In member function ‘long long int Solution::minTime(std::vector<int>, std::vector<int>)’:\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:80:9: warning: empty parentheses were disambiguated as a function declaration [-Wvexing-parse]\n   80 | int main() {\n      |         ^~\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:80:9: note: remove parentheses to default-initialize a variable\n   80 | int main() {\n      |         ^~\n      |         --\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:80:9: note: or replace parentheses with braces to value-initialize a variable\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:80:12: error: a function-definition is not allowed here before ‘{’ token\n   80 | int main() {\n      |            ^\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:189:2: error: expected ‘}’ at end of input\n  189 | }\n      |  ^\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:76:41: note: to match this ‘{’\n   76 |             for (int i = 0; i < n; i++) {\n      |                                         ^\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:189:2: error: expected ‘}’ at end of input\n  189 | }\n      |  ^\nresults/cpp/eval_work/claude_medium_find-the-minimum-amount-of-time-to-brew-potions.cpp:43:37: note: to match this ‘{’\n   43 |         for (int j = 0; j < m; j++) {\n      |  "
+  },
+  {
+    "task_id": "find-the-minimum-amount-of-time-to-brew-potions",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "find-the-minimum-amount-of-time-to-brew-potions",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximize-score-after-pair-deletions",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximize-score-after-pair-deletions",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "RUNTIME_ERROR",
+    "details": "Exit -11. stdout:  | stderr: "
+  },
+  {
+    "task_id": "maximize-score-after-pair-deletions",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_medium_maximize-score-after-pair-deletions: results/cpp/eval_work/deepseek_medium_maximize-score-after-pair-deletions.cpp:185: int main(): Assertion `(sol.maxScore(vector<int>{1, 1, 1, 1, 1, 1, 1, 1, 1, 1}) == 8LL)' failed.\n"
+  },
+  {
+    "task_id": "closest-equal-element-queries",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "RUNTIME_ERROR",
+    "details": "Exit -11. stdout:  | stderr: "
+  },
+  {
+    "task_id": "closest-equal-element-queries",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: gemini_medium_closest-equal-element-queries: results/cpp/eval_work/gemini_medium_closest-equal-element-queries.cpp:109: int main(): Assertion `(sol.solveQueries(vector<int>{1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6, 7, 8, 9}, vector<int>{0, 9, 18, 27, 20}) == vector<int>{9, 9, 9, 9, 9})' failed.\n"
+  },
+  {
+    "task_id": "closest-equal-element-queries",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_medium_closest-equal-element-queries: results/cpp/eval_work/deepseek_medium_closest-equal-element-queries.cpp:103: int main(): Assertion `(sol.solveQueries(vector<int>{1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6, 7, 8, 9}, vector<int>{0, 9, 18, 27, 20}) == vector<int>{9, 9, 9, 9, 9})' failed.\n"
+  },
+  {
+    "task_id": "zero-array-transformation-iv",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: claude_medium_zero-array-transformation-iv: results/cpp/eval_work/claude_medium_zero-array-transformation-iv.cpp:79: int main(): Assertion `(sol.minZeroArray(vector<int>{2, 4, 6, 8, 10, 8, 6, 4, 2, 0}, vector<vector<int>>{vector<int>{0, 4, 2}, vector<int>{1, 5, 3}, vector<int>{2, 6, 4}, vector<int>{3, 7, 5}, vector<int>{4, 8, 6}}) == -1)' failed.\n"
+  },
+  {
+    "task_id": "zero-array-transformation-iv",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: gemini_medium_zero-array-transformation-iv: results/cpp/eval_work/gemini_medium_zero-array-transformation-iv.cpp:103: int main(): Assertion `(sol.minZeroArray(vector<int>{2, 4, 6, 8, 10, 8, 6, 4, 2, 0}, vector<vector<int>>{vector<int>{0, 4, 2}, vector<int>{1, 5, 3}, vector<int>{2, 6, 4}, vector<int>{3, 7, 5}, vector<int>{4, 8, 6}}) == -1)' failed.\n"
+  },
+  {
+    "task_id": "zero-array-transformation-iv",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_medium_zero-array-transformation-iv: results/cpp/eval_work/deepseek_medium_zero-array-transformation-iv.cpp:105: int main(): Assertion `(sol.minZeroArray(vector<int>{2, 4, 6, 8, 10, 8, 6, 4, 2, 0}, vector<vector<int>>{vector<int>{0, 4, 2}, vector<int>{1, 5, 3}, vector<int>{2, 6, 4}, vector<int>{3, 7, 5}, vector<int>{4, 8, 6}}) == -1)' failed.\n"
+  },
+  {
+    "task_id": "choose-k-elements-with-maximum-sum",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "choose-k-elements-with-maximum-sum",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "SYNTAX_ERROR",
+    "details": "In file included from /usr/include/c++/13/cassert:44,\n                 from results/cpp/eval_work/gemini_medium_choose-k-elements-with-maximum-sum.cpp:4:\nresults/cpp/eval_work/gemini_medium_choose-k-elements-with-maximum-sum.cpp: In function ‘int main()’:\nresults/cpp/eval_work/gemini_medium_choose-k-elements-with-maximum-sum.cpp:92:28: error: cannot bind non-const lvalue reference of type ‘std::vector<int>&’ to an rvalue of type ‘std::vector<int>’\n   92 |     assert((sol.findMaxSum(vector<int>{10, 20, 30, 40, 50}, vector<int>{50, 40, 30, 20, 10}, 2) == vector<long long>{0LL, 50LL, 90LL, 90LL, 90LL}));\n      |                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_medium_choose-k-elements-with-maximum-sum.cpp:36:47: note:   initializing argument 1 of ‘std::vector<long long int> Solution::findMaxSum(std::vector<int>&, std::vector<int>&, int)’\n   36 |     vector<long long> findMaxSum(vector<int>& nums1, vector<int>& nums2, int k) {\n      |                                  ~~~~~~~~~~~~~^~~~~\nresults/cpp/eval_work/gemini_medium_choose-k-elements-with-maximum-sum.cpp:93:28: error: cannot bind non-const lvalue reference of type ‘std::vector<int>&’ to an rvalue of type ‘std::vector<int>’\n   93 |     assert((sol.findMaxSum(vector<int>{100000, 90000, 80000, 70000, 60000}, vector<int>{1, 2, 3, 4, 5}, 4) == vector<long long>{14LL, 12LL, 9LL, 5LL, 0LL}));\n      |                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_medium_choose-k-elements-with-maximum-sum.cpp:36:47: note:   initializing argument 1 of ‘std::vector<long long int> Solution::findMaxSum(std::vector<int>&, std::vector<int>&, int)’\n   36 |     vector<long long> findMaxSum(vector<int>& nums1, vector<int>& nums2, int k) {\n      |                                  ~~~~~~~~~~~~~^~~~~\nresults/cpp/eval_work/gemini_medium_choose-k-elements-with-maximum-sum.cpp:94:28: error: cannot bind non-const lvalue reference of type ‘std::vector<int>&’ to "
+  },
+  {
+    "task_id": "choose-k-elements-with-maximum-sum",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_medium_choose-k-elements-with-maximum-sum: results/cpp/eval_work/deepseek_medium_choose-k-elements-with-maximum-sum.cpp:85: int main(): Assertion `(sol.findMaxSum(vector<int>{1, 1, 1, 1, 1}, vector<int>{5, 5, 5, 5, 5}, 5) == vector<long long>{0LL, 0LL, 0LL, 0LL, 0LL})' failed.\n"
+  },
+  {
+    "task_id": "fruits-into-baskets-iii",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/claude_medium_fruits-into-baskets-iii.cpp:56:7: error: redefinition of ‘class SegmentTree’\n   56 | class SegmentTree {\n      |       ^~~~~~~~~~~\nresults/cpp/eval_work/claude_medium_fruits-into-baskets-iii.cpp:26:7: note: previous definition of ‘class SegmentTree’\n   26 | class SegmentTree {\n      |       ^~~~~~~~~~~\nresults/cpp/eval_work/claude_medium_fruits-into-baskets-iii.cpp: In member function ‘int Solution::numOfUnplacedFruits(std::vector<int>, std::vector<int>)’:\nresults/cpp/eval_work/claude_medium_fruits-into-baskets-iii.cpp:104:26: error: ‘class SegmentTree’ has no member named ‘findLeftmost’\n  104 |             int idx = st.findLeftmost(1, 0, n-1, 0, n-1, (long long)fruits[i]);\n      |                          ^~~~~~~~~~~~\n"
+  },
+  {
+    "task_id": "fruits-into-baskets-iii",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:57:7: error: redefinition of ‘class SegmentTree’\n   57 | class SegmentTree {\n      |       ^~~~~~~~~~~\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:26:7: note: previous definition of ‘class SegmentTree’\n   26 | class SegmentTree {\n      |       ^~~~~~~~~~~\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp: In member function ‘int Solution::numOfUnplacedFruits(std::vector<int>&, std::vector<int>&)’:\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:111:31: error: no matching function for call to ‘SegmentTree::SegmentTree(std::vector<int>&)’\n  111 |         SegmentTree st(baskets);\n      |                               ^\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:31:5: note: candidate: ‘SegmentTree::SegmentTree(int)’\n   31 |     SegmentTree(int n_) : n(n_), f(4 * n_, MN) {}\n      |     ^~~~~~~~~~~\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:31:21: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘int’\n   31 |     SegmentTree(int n_) : n(n_), f(4 * n_, MN) {}\n      |                 ~~~~^~\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:26:7: note: candidate: ‘SegmentTree::SegmentTree(const SegmentTree&)’\n   26 | class SegmentTree {\n      |       ^~~~~~~~~~~\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:26:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘const SegmentTree&’\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:26:7: note: candidate: ‘SegmentTree::SegmentTree(SegmentTree&&)’\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:26:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘SegmentTree&&’\nresults/cpp/eval_work/gemini_medium_fruits-into-baskets-iii.cpp:115:34: error: ‘class SegmentTree’ has no member named ‘findAndUseFirst’\n  115 |             int resultIndex = st.findAndUseFir"
+  },
+  {
+    "task_id": "fruits-into-baskets-iii",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/deepseek_medium_fruits-into-baskets-iii.cpp:56:7: error: redefinition of ‘class SegmentTree’\n   56 | class SegmentTree {\n      |       ^~~~~~~~~~~\nresults/cpp/eval_work/deepseek_medium_fruits-into-baskets-iii.cpp:26:7: note: previous definition of ‘class SegmentTree’\n   26 | class SegmentTree {\n      |       ^~~~~~~~~~~\n"
+  },
+  {
+    "task_id": "apply-substitutions",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "apply-substitutions",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "apply-substitutions",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "longest-palindromic-subsequence-after-at-most-k-operations",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: claude_medium_longest-palindromic-subsequence-after-at-most-k-operations: results/cpp/eval_work/claude_medium_longest-palindromic-subsequence-after-at-most-k-operations.cpp:204: int main(): Assertion `(sol.longestPalindromicSubsequence(\"step on no pets\", 10) == 15)' failed.\n"
+  },
+  {
+    "task_id": "longest-palindromic-subsequence-after-at-most-k-operations",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "RUNTIME_ERROR",
+    "details": "Exit -11. stdout:  | stderr: "
+  },
+  {
+    "task_id": "longest-palindromic-subsequence-after-at-most-k-operations",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_medium_longest-palindromic-subsequence-after-at-most-k-operations: results/cpp/eval_work/deepseek_medium_longest-palindromic-subsequence-after-at-most-k-operations.cpp:179: int main(): Assertion `(sol.longestPalindromicSubsequence(\"step on no pets\", 10) == 15)' failed.\n"
+  },
+  {
+    "task_id": "sum-of-k-subarrays-with-length-at-least-m",
+    "difficulty": "medium",
+    "model": "claude",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: claude_medium_sum-of-k-subarrays-with-length-at-least-m: results/cpp/eval_work/claude_medium_sum-of-k-subarrays-with-length-at-least-m.cpp:80: int main(): Assertion `(sol.maxSum(vector<int>{1, 0, -1, 0, 1, -1, 0, 1}, 2, 2) == 2LL)' failed.\n"
+  },
+  {
+    "task_id": "sum-of-k-subarrays-with-length-at-least-m",
+    "difficulty": "medium",
+    "model": "gemini",
+    "status": "SYNTAX_ERROR",
+    "details": "In file included from /usr/include/c++/13/cassert:44,\n                 from results/cpp/eval_work/gemini_medium_sum-of-k-subarrays-with-length-at-least-m.cpp:4:\nresults/cpp/eval_work/gemini_medium_sum-of-k-subarrays-with-length-at-least-m.cpp: In function ‘int main()’:\nresults/cpp/eval_work/gemini_medium_sum-of-k-subarrays-with-length-at-least-m.cpp:105:24: error: cannot bind non-const lvalue reference of type ‘std::vector<int>&’ to an rvalue of type ‘std::vector<int>’\n  105 |     assert((sol.maxSum(vector<int>{1, 0, -1, 0, 1, -1, 0, 1}, 2, 2) == 2LL));\n      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_medium_sum-of-k-subarrays-with-length-at-least-m.cpp:36:35: note:   initializing argument 1 of ‘long long int Solution::maxSum(std::vector<int>&, int, int)’\n   36 |     long long maxSum(vector<int>& nums, int k, int m) {\n      |                      ~~~~~~~~~~~~~^~~~\nresults/cpp/eval_work/gemini_medium_sum-of-k-subarrays-with-length-at-least-m.cpp:106:24: error: cannot bind non-const lvalue reference of type ‘std::vector<int>&’ to an rvalue of type ‘std::vector<int>’\n  106 |     assert((sol.maxSum(vector<int>{5, 4, 3, 2, 1}, 2, 2) == 15LL));\n      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_medium_sum-of-k-subarrays-with-length-at-least-m.cpp:36:35: note:   initializing argument 1 of ‘long long int Solution::maxSum(std::vector<int>&, int, int)’\n   36 |     long long maxSum(vector<int>& nums, int k, int m) {\n      |                      ~~~~~~~~~~~~~^~~~\nresults/cpp/eval_work/gemini_medium_sum-of-k-subarrays-with-length-at-least-m.cpp:107:24: error: cannot bind non-const lvalue reference of type ‘std::vector<int>&’ to an rvalue of type ‘std::vector<int>’\n  107 |     assert((sol.maxSum(vector<int>{0, 0, 0, 0, 0, 0, 0, 0, 0, 0}, 2, 3) == 0LL));\n      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_medium_sum-of-k-subarrays-with-length-at-le"
+  },
+  {
+    "task_id": "sum-of-k-subarrays-with-length-at-least-m",
+    "difficulty": "medium",
+    "model": "deepseek",
+    "status": "RUNTIME_ERROR",
+    "details": "Exit -7. stdout:  | stderr: "
+  },
+  {
+    "task_id": "longest-palindrome-after-substring-concatenation-ii",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: claude_hard_longest-palindrome-after-substring-concatenation-ii: results/cpp/eval_work/claude_hard_longest-palindrome-after-substring-concatenation-ii.cpp:117: int main(): Assertion `(sol.longestPalindrome(\"tatactatta\", \"tatattac\") == 11)' failed.\n"
+  },
+  {
+    "task_id": "longest-palindrome-after-substring-concatenation-ii",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: gemini_hard_longest-palindrome-after-substring-concatenation-ii: results/cpp/eval_work/gemini_hard_longest-palindrome-after-substring-concatenation-ii.cpp:79: int main(): Assertion `(sol.longestPalindrome(\"b\", \"aaaa\") == 4)' failed.\n"
+  },
+  {
+    "task_id": "longest-palindrome-after-substring-concatenation-ii",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_hard_longest-palindrome-after-substring-concatenation-ii: results/cpp/eval_work/deepseek_hard_longest-palindrome-after-substring-concatenation-ii.cpp:206: int main(): Assertion `(sol.longestPalindrome(\"hello\", \"world\") == 3)' failed.\n"
+  },
+  {
+    "task_id": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/claude_hard_minimum-operations-to-make-elements-within-k-subarrays-equal.cpp:81:7: error: redefinition of ‘class LazyHeap’\n   81 | class LazyHeap {\n      |       ^~~~~~~~\nresults/cpp/eval_work/claude_hard_minimum-operations-to-make-elements-within-k-subarrays-equal.cpp:26:7: note: previous definition of ‘class LazyHeap’\n   26 | class LazyHeap {\n      |       ^~~~~~~~\n"
+  },
+  {
+    "task_id": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/gemini_hard_minimum-operations-to-make-elements-within-k-subarrays-equal.cpp:86:7: error: redefinition of ‘class LazyHeap’\n   86 | class LazyHeap {\n      |       ^~~~~~~~\nresults/cpp/eval_work/gemini_hard_minimum-operations-to-make-elements-within-k-subarrays-equal.cpp:26:7: note: previous definition of ‘class LazyHeap’\n   26 | class LazyHeap {\n      |       ^~~~~~~~\nresults/cpp/eval_work/gemini_hard_minimum-operations-to-make-elements-within-k-subarrays-equal.cpp: In member function ‘long long int Solution::minOperations(std::vector<int>, int, int)’:\nresults/cpp/eval_work/gemini_hard_minimum-operations-to-make-elements-within-k-subarrays-equal.cpp:176:16: error: ‘class LazyHeap’ has no member named ‘add’\n  176 |             lh.add(nums[i]);\n      |                ^~~\nresults/cpp/eval_work/gemini_hard_minimum-operations-to-make-elements-within-k-subarrays-equal.cpp:178:50: error: ‘class LazyHeap’ has no member named ‘get_cost’\n  178 |             if (i >= x - 1) cost[i - x + 1] = lh.get_cost();\n      |                                                  ^~~~~~~~\n"
+  },
+  {
+    "task_id": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/deepseek_hard_minimum-operations-to-make-elements-within-k-subarrays-equal.cpp:85:7: error: redefinition of ‘class LazyHeap’\n   85 | class LazyHeap {\n      |       ^~~~~~~~\nresults/cpp/eval_work/deepseek_hard_minimum-operations-to-make-elements-within-k-subarrays-equal.cpp:26:7: note: previous definition of ‘class LazyHeap’\n   26 | class LazyHeap {\n      |       ^~~~~~~~\n"
+  },
+  {
+    "task_id": "minimum-operations-to-make-array-elements-zero",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "minimum-operations-to-make-array-elements-zero",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "minimum-operations-to-make-array-elements-zero",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "TIMEOUT",
+    "details": ">30s"
+  },
+  {
+    "task_id": "minimum-cost-to-divide-array-into-subarrays",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "minimum-cost-to-divide-array-into-subarrays",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "SYNTAX_ERROR",
+    "details": "In file included from /usr/include/c++/13/cassert:44,\n                 from results/cpp/eval_work/gemini_hard_minimum-cost-to-divide-array-into-subarrays.cpp:4:\nresults/cpp/eval_work/gemini_hard_minimum-cost-to-divide-array-into-subarrays.cpp: In function ‘int main()’:\nresults/cpp/eval_work/gemini_hard_minimum-cost-to-divide-array-into-subarrays.cpp:88:29: error: cannot bind non-const lvalue reference of type ‘std::vector<int>&’ to an rvalue of type ‘std::vector<int>’\n   88 |     assert((sol.minimumCost(vector<int>{1}, vector<int>{1}, 1) == 2LL));\n      |                             ^~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_hard_minimum-cost-to-divide-array-into-subarrays.cpp:36:40: note:   initializing argument 1 of ‘long long int Solution::minimumCost(std::vector<int>&, std::vector<int>&, int)’\n   36 |     long long minimumCost(vector<int>& nums, vector<int>& cost, int k) {\n      |                           ~~~~~~~~~~~~~^~~~\nresults/cpp/eval_work/gemini_hard_minimum-cost-to-divide-array-into-subarrays.cpp:89:29: error: cannot bind non-const lvalue reference of type ‘std::vector<int>&’ to an rvalue of type ‘std::vector<int>’\n   89 |     assert((sol.minimumCost(vector<int>{4, 8, 5, 1, 14, 2, 2, 12, 1}, vector<int>{7, 2, 8, 4, 2, 2, 1, 1, 2}, 7) == 985LL));\n      |                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_hard_minimum-cost-to-divide-array-into-subarrays.cpp:36:40: note:   initializing argument 1 of ‘long long int Solution::minimumCost(std::vector<int>&, std::vector<int>&, int)’\n   36 |     long long minimumCost(vector<int>& nums, vector<int>& cost, int k) {\n      |                           ~~~~~~~~~~~~~^~~~\nresults/cpp/eval_work/gemini_hard_minimum-cost-to-divide-array-into-subarrays.cpp:90:29: error: cannot bind non-const lvalue reference of type ‘std::vector<int>&’ to an rvalue of type ‘std::vector<int>’\n   90 |     assert((sol.minimumCost(vector<int>{1, 2, 3, 4, 5}, vector<int>{5, 4, 3, 2, 1}, 2) == 130LL"
+  },
+  {
+    "task_id": "minimum-cost-to-divide-array-into-subarrays",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_hard_minimum-cost-to-divide-array-into-subarrays: results/cpp/eval_work/deepseek_hard_minimum-cost-to-divide-array-into-subarrays.cpp:68: int main(): Assertion `(sol.minimumCost(vector<int>{4, 8, 5, 1, 14, 2, 2, 12, 1}, vector<int>{7, 2, 8, 4, 2, 2, 1, 1, 2}, 7) == 985LL)' failed.\n"
+  },
+  {
+    "task_id": "maximize-active-section-with-trade-ii",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/claude_hard_maximize-active-section-with-trade-ii.cpp:60:7: error: redefinition of ‘class SparseTable’\n   60 | class SparseTable {\n      |       ^~~~~~~~~~~\nresults/cpp/eval_work/claude_hard_maximize-active-section-with-trade-ii.cpp:26:7: note: previous definition of ‘class SparseTable’\n   26 | class SparseTable {\n      |       ^~~~~~~~~~~\n"
+  },
+  {
+    "task_id": "maximize-active-section-with-trade-ii",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/gemini_hard_maximize-active-section-with-trade-ii.cpp:64:7: error: redefinition of ‘class SparseTable’\n   64 | class SparseTable {\n      |       ^~~~~~~~~~~\nresults/cpp/eval_work/gemini_hard_maximize-active-section-with-trade-ii.cpp:26:7: note: previous definition of ‘class SparseTable’\n   26 | class SparseTable {\n      |       ^~~~~~~~~~~\n"
+  },
+  {
+    "task_id": "maximize-active-section-with-trade-ii",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/deepseek_hard_maximize-active-section-with-trade-ii.cpp:63:7: error: redefinition of ‘class SparseTable’\n   63 | class SparseTable {\n      |       ^~~~~~~~~~~\nresults/cpp/eval_work/deepseek_hard_maximize-active-section-with-trade-ii.cpp:26:7: note: previous definition of ‘class SparseTable’\n   26 | class SparseTable {\n      |       ^~~~~~~~~~~\n"
+  },
+  {
+    "task_id": "count-beautiful-numbers",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/claude_hard_count-beautiful-numbers.cpp: In member function ‘long long int Solution::count_le(long long int)’:\nresults/cpp/eval_work/claude_hard_count-beautiful-numbers.cpp:148:19: error: no matching function for call to ‘Solution::dp2(int, bool, int, long long int)’\n  148 |         return dp2(0, true, 0, -1LL); // -1 = leading zero marker\n      |                ~~~^~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/claude_hard_count-beautiful-numbers.cpp:154:15: note: candidate: ‘long long int Solution::dp2(int, bool, int, long long int, bool)’\n  154 |     long long dp2(int pos, bool tight, int sum, long long prod, bool started) {\n      |               ^~~\nresults/cpp/eval_work/claude_hard_count-beautiful-numbers.cpp:154:15: note:   candidate expects 5 arguments, 4 provided\n"
+  },
+  {
+    "task_id": "count-beautiful-numbers",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "count-beautiful-numbers",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_hard_count-beautiful-numbers: results/cpp/eval_work/deepseek_hard_count-beautiful-numbers.cpp:116: int main(): Assertion `(sol.beautifulNumbers(900, 1000) == 35LL)' failed.\n"
+  },
+  {
+    "task_id": "maximize-subarrays-after-removing-one-conflicting-pair",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "maximize-subarrays-after-removing-one-conflicting-pair",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "SYNTAX_ERROR",
+    "details": "In file included from /usr/include/c++/13/cassert:44,\n                 from results/cpp/eval_work/gemini_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:4:\nresults/cpp/eval_work/gemini_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp: In function ‘int main()’:\nresults/cpp/eval_work/gemini_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:145:33: error: cannot bind non-const lvalue reference of type ‘std::vector<std::vector<int> >&’ to an rvalue of type ‘std::vector<std::vector<int> >’\n  145 |     assert((sol.maxSubarrays(7, vector<vector<int>>{vector<int>{1, 2}, vector<int>{2, 3}, vector<int>{3, 4}, vector<int>{4, 5}, vector<int>{5, 6}, vector<int>{6, 7}}) == 8LL));\n      |                                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:35:56: note:   initializing argument 2 of ‘long long int Solution::maxSubarrays(int, std::vector<std::vector<int> >&)’\n   35 |     long long maxSubarrays(int n, vector<vector<int>>& conflictingPairs) {\n      |                                   ~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:146:33: error: cannot bind non-const lvalue reference of type ‘std::vector<std::vector<int> >&’ to an rvalue of type ‘std::vector<std::vector<int> >’\n  146 |     assert((sol.maxSubarrays(6, vector<vector<int>>{vector<int>{1, 3}, vector<int>{2, 4}, vector<int>{3, 5}, vector<int>{4, 6}}) == 12LL));\n      |                                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:35:56: note:   initializing argument 2 of ‘long long int Solution::maxSubarrays(int, std::vector<std::vector<in"
+  },
+  {
+    "task_id": "maximize-subarrays-after-removing-one-conflicting-pair",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "SYNTAX_ERROR",
+    "details": "In file included from /usr/include/c++/13/cassert:44,\n                 from results/cpp/eval_work/deepseek_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:4:\nresults/cpp/eval_work/deepseek_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp: In function ‘int main()’:\nresults/cpp/eval_work/deepseek_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:107:33: error: cannot bind non-const lvalue reference of type ‘std::vector<std::vector<int> >&’ to an rvalue of type ‘std::vector<std::vector<int> >’\n  107 |     assert((sol.maxSubarrays(7, vector<vector<int>>{vector<int>{1, 2}, vector<int>{2, 3}, vector<int>{3, 4}, vector<int>{4, 5}, vector<int>{5, 6}, vector<int>{6, 7}}) == 8LL));\n      |                                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/deepseek_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:38:56: note:   initializing argument 2 of ‘long long int Solution::maxSubarrays(int, std::vector<std::vector<int> >&)’\n   38 |     long long maxSubarrays(int n, vector<vector<int>>& conflictingPairs) {\n      |                                   ~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~\nresults/cpp/eval_work/deepseek_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:108:33: error: cannot bind non-const lvalue reference of type ‘std::vector<std::vector<int> >&’ to an rvalue of type ‘std::vector<std::vector<int> >’\n  108 |     assert((sol.maxSubarrays(6, vector<vector<int>>{vector<int>{1, 3}, vector<int>{2, 4}, vector<int>{3, 5}, vector<int>{4, 6}}) == 12LL));\n      |                                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/deepseek_hard_maximize-subarrays-after-removing-one-conflicting-pair.cpp:38:56: note:   initializing argument 2 of ‘long long int Solution::maxSubarrays(int, std::vector<st"
+  },
+  {
+    "task_id": "longest-common-prefix-of-k-strings-after-removal",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/claude_hard_longest-common-prefix-of-k-strings-after-removal.cpp:89:8: error: redefinition of ‘struct TrieNode’\n   89 | struct TrieNode {\n      |        ^~~~~~~~\nresults/cpp/eval_work/claude_hard_longest-common-prefix-of-k-strings-after-removal.cpp:26:8: note: previous definition of ‘struct TrieNode’\n   26 | struct TrieNode {\n      |        ^~~~~~~~\nresults/cpp/eval_work/claude_hard_longest-common-prefix-of-k-strings-after-removal.cpp:94:7: error: redefinition of ‘class Trie’\n   94 | class Trie {\n      |       ^~~~\nresults/cpp/eval_work/claude_hard_longest-common-prefix-of-k-strings-after-removal.cpp:31:7: note: previous definition of ‘class Trie’\n   31 | class Trie {\n      |       ^~~~\n"
+  },
+  {
+    "task_id": "longest-common-prefix-of-k-strings-after-removal",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/gemini_hard_longest-common-prefix-of-k-strings-after-removal.cpp:93:8: error: redefinition of ‘struct TrieNode’\n   93 | struct TrieNode {\n      |        ^~~~~~~~\nresults/cpp/eval_work/gemini_hard_longest-common-prefix-of-k-strings-after-removal.cpp:26:8: note: previous definition of ‘struct TrieNode’\n   26 | struct TrieNode {\n      |        ^~~~~~~~\nresults/cpp/eval_work/gemini_hard_longest-common-prefix-of-k-strings-after-removal.cpp:98:7: error: redefinition of ‘class Trie’\n   98 | class Trie {\n      |       ^~~~\nresults/cpp/eval_work/gemini_hard_longest-common-prefix-of-k-strings-after-removal.cpp:31:7: note: previous definition of ‘class Trie’\n   31 | class Trie {\n      |       ^~~~\nIn file included from /usr/include/c++/13/cassert:44,\n                 from results/cpp/eval_work/gemini_hard_longest-common-prefix-of-k-strings-after-removal.cpp:4:\nresults/cpp/eval_work/gemini_hard_longest-common-prefix-of-k-strings-after-removal.cpp: In function ‘int main()’:\nresults/cpp/eval_work/gemini_hard_longest-common-prefix-of-k-strings-after-removal.cpp:184:37: error: cannot bind non-const lvalue reference of type ‘std::vector<std::__cxx11::basic_string<char> >&’ to an rvalue of type ‘std::vector<std::__cxx11::basic_string<char> >’\n  184 |     assert((sol.longestCommonPrefix(vector<string>{\"banana\", \"band\", \"bend\", \"bendy\"}, 3) == vector<int>{1, 1, 1, 1}));\n      |                                     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_hard_longest-common-prefix-of-k-strings-after-removal.cpp:154:53: note:   initializing argument 1 of ‘std::vector<int> Solution::longestCommonPrefix(std::vector<std::__cxx11::basic_string<char> >&, int)’\n  154 |     vector<int> longestCommonPrefix(vector<string>& words, int k) {\n      |                                     ~~~~~~~~~~~~~~~~^~~~~\nresults/cpp/eval_work/gemini_hard_longest-common-prefix-of-k-strings-after-removal.cpp:185:37: error: cannot bind non-const lvalue refer"
+  },
+  {
+    "task_id": "longest-common-prefix-of-k-strings-after-removal",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "SYNTAX_ERROR",
+    "details": "results/cpp/eval_work/deepseek_hard_longest-common-prefix-of-k-strings-after-removal.cpp:94:8: error: redefinition of ‘struct TrieNode’\n   94 | struct TrieNode {\n      |        ^~~~~~~~\nresults/cpp/eval_work/deepseek_hard_longest-common-prefix-of-k-strings-after-removal.cpp:26:8: note: previous definition of ‘struct TrieNode’\n   26 | struct TrieNode {\n      |        ^~~~~~~~\nresults/cpp/eval_work/deepseek_hard_longest-common-prefix-of-k-strings-after-removal.cpp:99:7: error: redefinition of ‘class Trie’\n   99 | class Trie {\n      |       ^~~~\nresults/cpp/eval_work/deepseek_hard_longest-common-prefix-of-k-strings-after-removal.cpp:31:7: note: previous definition of ‘class Trie’\n   31 | class Trie {\n      |       ^~~~\n"
+  },
+  {
+    "task_id": "longest-special-path-ii",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "longest-special-path-ii",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "SYNTAX_ERROR",
+    "details": "In file included from /usr/include/c++/13/cassert:44,\n                 from results/cpp/eval_work/gemini_hard_longest-special-path-ii.cpp:4:\nresults/cpp/eval_work/gemini_hard_longest-special-path-ii.cpp: In function ‘int main()’:\nresults/cpp/eval_work/gemini_hard_longest-special-path-ii.cpp:122:36: error: cannot bind non-const lvalue reference of type ‘std::vector<std::vector<int> >&’ to an rvalue of type ‘std::vector<std::vector<int> >’\n  122 |     assert((sol.longestSpecialPath(vector<vector<int>>{vector<int>{0, 1, 10}, vector<int>{0, 2, 20}, vector<int>{0, 3, 30}}, vector<int>{1, 1, 1, 1}) == vector<int>{30, 2}));\n      |                                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresults/cpp/eval_work/gemini_hard_longest-special-path-ii.cpp:92:57: note:   initializing argument 1 of ‘std::vector<int> Solution::longestSpecialPath(std::vector<std::vector<int> >&, std::vector<int>&)’\n   92 |     vector<int> longestSpecialPath(vector<vector<int>>& edges, vector<int>& nums) {\n      |                                    ~~~~~~~~~~~~~~~~~~~~~^~~~~\nresults/cpp/eval_work/gemini_hard_longest-special-path-ii.cpp:123:36: error: cannot bind non-const lvalue reference of type ‘std::vector<std::vector<int> >&’ to an rvalue of type ‘std::vector<std::vector<int> >’\n  123 |     assert((sol.longestSpecialPath(vector<vector<int>>{vector<int>{0, 1, 2}, vector<int>{0, 2, 2}, vector<int>{1, 3, 2}, vector<int>{1, 4, 2}, vector<int>{2, 5, 2}, vector<int>{2, 6, 2}, vector<int>{3, 7, 2}, vector<int>{4, 8, 2}, vector<int>{5, 9, 2}, vector<int>{6, 10, 2}, vector<int>{7, 11, 2}, vector<int>{8, 12, 2}, vector<int>{9, 13, 2}, vector<int>{10, 14, 2}}, vector<int>{1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1}) == vector<int>{2, 2}));\n      |                                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  },
+  {
+    "task_id": "longest-special-path-ii",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "FAIL",
+    "details": "Assertion failed. stdout:  | stderr: deepseek_hard_longest-special-path-ii: results/cpp/eval_work/deepseek_hard_longest-special-path-ii.cpp:91: int main(): Assertion `(sol.longestSpecialPath(vector<vector<int>>{vector<int>{0, 1, 10}, vector<int>{0, 2, 20}, vector<int>{0, 3, 30}}, vector<int>{1, 1, 1, 1}) == vector<int>{30, 2})' failed.\n"
+  },
+  {
+    "task_id": "lexicographically-smallest-generated-string",
+    "difficulty": "hard",
+    "model": "claude",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "lexicographically-smallest-generated-string",
+    "difficulty": "hard",
+    "model": "gemini",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "task_id": "lexicographically-smallest-generated-string",
+    "difficulty": "hard",
+    "model": "deepseek",
+    "status": "PASS",
+    "details": ""
+  }
+]

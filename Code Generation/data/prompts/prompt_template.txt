@@ -1,0 +1,13 @@
+Solve the following programming problem in Python.
+
+Problem:
+{problem_description}
+
+Function signature:
+{starter_code}
+
+Requirements:
+- Provide your complete solution in a single Python code block.
+- Include all necessary imports at the top of the code block.
+- Do not include any text or explanation outside the code block.
+- The function must match the signature exactly.
